@@ -1,16 +1,13 @@
-### Hi there 👋
+# Olá👋, sou Gabriel Kloppel
+### Estudante de Análise e Desenvolvimento de Software
 
-<!--
-**gabrielkloppe/gabrielkloppe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente em busca de oportunidades profissionais
+- 🌱 Estudando Engenharia de Software
+- 📫 Contate-me no email: tkloppel@hotmail.com
 
-Here are some ideas to get you started:
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=gabrielkloppe&show_icons=true&theme=radical" style="display: inline-block; width: 50%;" alt="Anurag's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielkloppe&layout=compact&theme=radical" style="display: inline-block; width: 45%;" alt="Top Langs">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
